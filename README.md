@@ -9,15 +9,23 @@
 #
 ### Clone the repo:
 ### SSH
-#### `Bash`: ` git clone git@github.com/BaibhavPhaijoo/ShowTextVertically.git`
+ ```Bash
+ git clone git@github.com/BaibhavPhaijoo/ShowTextVertically.git
+```
 
 ### HTTPS
-#### Bash: `git clone https://github.com/BaibhavPhaijoo/ShowTextVertically.git`
+```Bash
+git clone https://github.com/BaibhavPhaijoo/ShowTextVertically.git
+```
 #
 ## Navigate to the project folder
-#### Bash: `cd ShowTextVertically`
+```Bash 
+cd ShowTextVertically
+```
 ### Run the program
-#### `Bash`: `dotnet run`
+```Bash 
+dotnet run
+```
 
 #
 ## Language: `C#`
